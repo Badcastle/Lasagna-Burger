@@ -17,11 +17,12 @@ INGREDIENTS - BURGER <br>
  2 tbsp ground flax seeds<br>
  6 tbsp veg stock<br>
  4 tbsp rice flour<br>
-=======
-# drie ingredients:
+
+ drie ingredients:
 
 - 4 soft buns
 - 1 clove of garlic 
 - 5 tbsp oil
+
 
 >>>>>>> 14630fd26c9e4c1c5794500d657657e32b676a91
