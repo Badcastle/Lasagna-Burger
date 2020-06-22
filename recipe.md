@@ -1,0 +1,25 @@
+# drie ingredients:
+
+- 4 soft buns
+- 1 clove of garlic 
+- 5 tbsp oil
+
+This is the **simplest** and **slickest** online Markdown editor.  
+Just write Markdown and see what it looks like as you type. And convert it to HTML in one click.
+
+## Getting started
+
+### How?
+
+Just start typing in the left panel.
+
+### Butto might want to use
+ 
+- **Quick Reference**: that's a reminder of the most basic rules of Markdown
+- **HTML | Preview**: *HTML* to see the markup generated from your Markdown text, *Preview* to see how it looks like
+
+### Privacy
+
+- No data is sent to any server – everything you type stays inside your browser
+- The editor automatically saves what you write locally for future use.  
+  If using a public computer, either empty the left panel before leaving the editor or use your browser's privacy mode
